@@ -1,5 +1,5 @@
-<b>Hi, I'm Shiva Rama Krishna Cheekati - The SDE/SWE Aspirant 👋</b>
-*Full-Stack Developer* — Flask • PHP • SQL 
+<h1>Hi, I'm Shiva Rama Krishna Cheekati - The SDE/SWE Aspirant 👋</h1> | 
+<b><mark>Full-Stack Developer</mark> — Flask • PHP • SQL </b>
 
 🔭 Current project: *Krishna AgroBio website (Dynamic Website)*
 🌱 Learning: Data Structures and Algorithms, FastAPI, system design basics
