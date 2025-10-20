@@ -1,4 +1,4 @@
-Hi, I'm Shiva Rama Krishna Cheekati - The SDE/SWE Aspirant 👋
+<b>Hi, I'm Shiva Rama Krishna Cheekati - The SDE/SWE Aspirant 👋</b>
 *Full-Stack Developer* — Flask • PHP • SQL 
 
 🔭 Current project: *Krishna AgroBio website (Dynamic Website)*
